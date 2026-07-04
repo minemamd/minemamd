@@ -48,3 +48,17 @@ public:
     };
     std::string philosophy = "Optimize Memory -> Refactor Logic -> Master Performance";
 };
+⚔️ Tech Arsenal🕹️ Beyond Code🎮 Gaming & MechanicsAnalyzing game logic and structural hitboxes in critically acclaimed indie masterpieces and punishing action RPGs like Hollow Knight, Sekiro, Celeste, Undertale, and Dark Souls.🧠 Computational LogicDeep diving into Big-O complexity estimation, discrete math modeling, and refining machine learning paradigms for diagnostic bioinformatics.🚀 Architectural DesignStructuring clean code using Multi-Tiered layouts, proper encapsulation, and precise data modeling tools like dbdiagram.io.🖥️ Developer TerminalBashmido@system:~$ ./profile.sh
+[+] Loading System Profile...
+Name: MOHAMED MAHMOUD
+Role: Computer Science Student / Software Developer
+Core Focus: Data Structures • High-Performance Systems • DB Schemas
+Status: Building • Analyzing • Training Next-Gen AI 🚀
+mido@system:~$ 
+🚀 Featured ProjectsProjectCore StackArchitectural Status📚 Multi-Tier Book ManagementC# / SQL Server / Custom Lists🚀 Fully Functional & Optimized🧬 AI Gene Expression DiagnosticsPython / Random Forest / Tkinter🔥 Research & Advanced GUI Built🎮 Algorithmic Games & SolversPython / Tkinter / BFS Algorithm🎯 Implemented & Stable⌨️ Layout Auto-Correction UtilitySoftware Logic / Scripting⚡ Refined & Improving📊 GitHub Analytics🔥 Coding Activity🐍 Contribution Snake🌐 Connect With Me👀 Profile Views🧠 My PhilosophyC#while (alive)
+{
+    Analyze();
+    Code();
+    Optimize();
+    Repeat();
+}
