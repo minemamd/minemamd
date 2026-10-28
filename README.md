@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Mahmoud (Mido)</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Mahmoud (Medo)</h1>
 <h3 align="center">Software Engineer in the making 🚀 | Complex Problem Solving | Algorithms & Data Structures</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Software+Engineer+in+Making;C%2B%2B+%7C+Python+%7C+T-SQL;Big-O+%26+Algorithms+Enthusiast;Relational+DB+Design+%7C+Problem+Solver" alt="Typing SVG" />
